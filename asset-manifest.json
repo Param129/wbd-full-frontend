@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec57e75f.css",
+    "main.js": "/static/js/main.dac135f8.js",
+    "static/media/pawel-czerwinski-XyeOs09XKCk-unsplash.jpg": "/static/media/pawel-czerwinski-XyeOs09XKCk-unsplash.035f19c9a373fe402ae2.jpg",
+    "static/media/hospimg.jpg": "/static/media/hospimg.c8c1ce4546f2c4a4ad32.jpg",
+    "static/media/2738493.jpg": "/static/media/2738493.fba8b3fdfd9a7a337a4c.jpg",
+    "static/media/contactbg.jpg": "/static/media/contactbg.25360f0ec7a6e347013f.jpg",
+    "static/media/back.jpg": "/static/media/back.13f338871c229b8cfb62.jpg",
+    "static/media/p.png": "/static/media/p.c965b36c91f9aac9d605.png",
+    "static/media/img1.png": "/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/blood-pressure.png": "/static/media/blood-pressure.dff756700f68d3cc5979.png",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "static/media/hospital.png": "/static/media/hospital.6a68f755782c503bf9d3.png",
+    "static/media/blood-test.png": "/static/media/blood-test.48459dbe14cd904fd6fa.png",
+    "index.html": "/index.html",
+    "static/media/bc_about.svg": "/static/media/bc_about.70812f1ba38d843d5900.svg",
+    "main.ec57e75f.css.map": "/static/css/main.ec57e75f.css.map",
+    "main.dac135f8.js.map": "/static/js/main.dac135f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec57e75f.css",
+    "static/js/main.dac135f8.js"
+  ]
+}
