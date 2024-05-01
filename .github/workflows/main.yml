@@ -23,7 +23,7 @@ jobs:
           node-version: 16
 
       - name: Install dependencies
-        uses: npm i --force
+        uses: actions/cache@v3
 
       - name: Build project
         run: npm run build
