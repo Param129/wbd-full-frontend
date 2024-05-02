@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bb57f41.css",
+    "main.css": "/static/css/main.256ca38a.css",
     "main.js": "/static/js/main.dac135f8.js",
     "static/media/pawel-czerwinski-XyeOs09XKCk-unsplash.jpg": "/static/media/pawel-czerwinski-XyeOs09XKCk-unsplash.035f19c9a373fe402ae2.jpg",
     "static/media/hospimg.jpg": "/static/media/hospimg.c8c1ce4546f2c4a4ad32.jpg",
@@ -16,11 +16,11 @@
     "static/media/blood-test.png": "/static/media/blood-test.48459dbe14cd904fd6fa.png",
     "index.html": "/index.html",
     "static/media/bc_about.svg": "/static/media/bc_about.70812f1ba38d843d5900.svg",
-    "main.9bb57f41.css.map": "/static/css/main.9bb57f41.css.map",
+    "main.256ca38a.css.map": "/static/css/main.256ca38a.css.map",
     "main.dac135f8.js.map": "/static/js/main.dac135f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bb57f41.css",
+    "static/css/main.256ca38a.css",
     "static/js/main.dac135f8.js"
   ]
 }
